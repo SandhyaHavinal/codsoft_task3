@@ -10,4 +10,4 @@ Features:
   - Letters, numbers, and symbols
 
 Description:
-This program uses Python’s random and string modules to create secure passwords based on user-selected options.
+- This program uses Python’s random and string modules to create secure passwords based on user-selected options.
